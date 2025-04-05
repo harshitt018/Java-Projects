@@ -48,10 +48,8 @@ AirplaneBookingSystem/
 | harshit  | jaiswal  |
 
 🧩 Upcoming Features (Planned)
-- Signup screen for new user creation.
-- Flight booking form with calendar and drop-downs.
-- Booking summary with editable/deletable entries.
 - Integration with file/database for persistent storage.
+- Many more...
 
 🧑‍💻 Author
 Harshit Jaiswal  
