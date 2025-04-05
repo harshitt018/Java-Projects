@@ -1,4 +1,3 @@
-
 ✈️ Ichigo Airlines - Airplane Booking System (Java Swing GUI)
 
 Welcome to Ichigo Airlines, a Java-based desktop GUI application for airplane booking, designed using Java Swing and enhanced with custom UI elements and background visuals. This project is ideal for understanding GUI components, event handling, and basic user authentication in Java.
